@@ -4,7 +4,7 @@ A digital logic-based 3-way traffic light controller with pedestrian crossing fu
 
 ## Overview
 
-This project was completed as part of a university digital logic and engineering coursework project.
+This project was completed as part of a university digital logic and engineering coursework project in a team of 4.
 
 The system represents a 3-way intersection with Road A, Road B, and Road C. Each road has red, yellow, and green traffic light outputs. Pedestrian push buttons allow crossing requests to be stored temporarily using RC memory, so the walk light activates only when the corresponding road is in a safe red-light state.
 
@@ -74,11 +74,11 @@ This allows the current traffic phase to finish before the pedestrian crossing s
 ## My Contribution
 
 - Designed and analysed the finite state machine for the 3-way traffic sequence.
-- Worked on Multisim circuit simulation and testing.
+- Worked on Multisim circuit simulation and testing with team.
 - Contributed to pedestrian push-button and RC memory logic design.
-- Contributed in testing normal traffic operation and pedestrian request behaviour.
-- Helped verify system behaviour across green, yellow, and red-light states.
-- Documented circuit operation, testing methodology, and results.
+- Contributed in testing normal traffic operation and pedestrian request behaviour with team.
+- Helped verify system behaviour across green, yellow, and red-light states with team.
+- Documented circuit operation, testing methodology, and results with team.
 
 ## Project Media
 
